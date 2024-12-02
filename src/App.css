@@ -62,6 +62,7 @@ body {
   }
 
   .sidebar.visible {
+    width: 150px;
     transform: translateX(0);
   }
 }
